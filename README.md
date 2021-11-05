@@ -1,2 +1,3 @@
-# Flash_Cards
-Module Project(FlashCards)
+FlashCards For Language Learning
+The Game
+The project is FlashCard Game which is generally played to learn a language. On the one surface of the card, there will be a word in Dutch. After 3 seconds, the card will flip. On the flipped surface there will be the same word but in English. The player will push the True or False button. If the player knew the word correctly then the player will push the True button and vice versa. The program does not control whether the player knows the word correctly. The player gives the input by pushing the button. The program gets the input and continues to the next word. There will be levels of the game. Each level will include 20 words. The player cannot pass to the next level until that the player knows each word in the current level correctly. That means that the words in a level will be over and over again shown to the player until that each word is correctly known. For the first inspiration of the game, there is a simple example of the game-shots.
